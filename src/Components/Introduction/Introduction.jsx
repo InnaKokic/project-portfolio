@@ -8,7 +8,7 @@ export const Introduction = () => {
       <div className="info-wrapper">
         <img
           className="profile-pic"
-          src="/assets/IMG_9270.jpeg"
+          src="/assets/profielNEW.JPG"
           alt="Profile picture of Inna"
         />
         <div className="name-headline-wrapper">
