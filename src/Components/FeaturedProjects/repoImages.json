@@ -1,10 +1,6 @@
 [
  
-  {
-    "repoName": "project-happy-thoughts-vite",
-    "imageUrl": "/assets/repoImages/happy.jpg",
-    "repoLive": "https://happy-thoughts-project-by-inna.netlify.app"
-  },
+  
   {
     "repoName": "project-survey-vite",
     "imageUrl": "/assets/repoImages/survey.jpg",
@@ -26,3 +22,4 @@
     "repoLive": "https://innas-qr-code-generator.netlify.app"
   }
 ]
+
